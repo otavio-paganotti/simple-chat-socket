@@ -21,3 +21,5 @@ O projeto estará disponível em:
 http://localhost:5000
 
 ## Abra esta URL em múltiplas instâncias de navegadores e se divirta enviando mensagens entre as janelas, e testando o comportamento do socket
+
+Este projeto é inspirado no artigo https://tsh.io/blog/socket-io-tutorial-real-time-communication/
